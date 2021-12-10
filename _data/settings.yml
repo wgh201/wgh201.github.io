@@ -1,20 +1,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Bars to Reproductive Safety
 logo: 
-author: themefisher
+author: amyluo
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: amyluo@hsph.harvard.edu 
+phone: 408 832 8710 
+address: 677 Huntington Ave Kresge 704 Boston, MA 02115
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: About our Coalition, link: '/about'}
+- {name: What is Reproductive Justice?, link: '/rj'}
+- {name: Legislation, link: '/legislation'}
+- {name: Resouces, link: '/resources'}
 
 
 #-------------------------------
@@ -52,10 +52,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Our aim is to help people in correctional and detention facilites maintain their right to access timely, quality, and appropriate care in Massachusetts. We believe one way to accomplish this is through political and social advocacy, where we place reproductive justice at the forefront. 
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: about our coalition
 
 
 # About Page
@@ -64,18 +64,18 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Research plays a pivotal role in investigating the heightened health risks and stigmatization,  gaps in care delivery, and violations of the right to health for indivduals housed in women's correctional & detention facilites. Establishing standard metrics and accessible data sources indentifies priority problems in the provision of holistic and equitable care."
     
-  - title : "Design and Develop"
+  - title : "Priorization and Planning"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "We strive to contribute to equitable policies, grounded in reproductive justice, for incarcerated individuals. These policies are informed by evidence-informed and needed to advance proactive legislative policies in place for the sexual and reproductive health and wellbeing for all."
     
-  - title : "Deliver"
+  - title : "Translation and Implementation"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "The translation of our work in policy priorities and action involves a engaging with key audiences directly and esuring wide audiences can use these findings. We aim to design steps that anyone can act upon, with the intent to raise voices behind the need for these changes NOW."
 
 
-# My Team Section
+# Coalition Members
 team:
   - title : "Jack Schenziwe"
     image : "assets/images/team/member-1.png"
@@ -88,7 +88,14 @@ team:
   - title : "John Doe"
     image : "assets/images/team/member-3.png"
     designation : "Designer"
-
+    
+  - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
+    
+  - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
 
 #-------------------------------
 # Skills Section
